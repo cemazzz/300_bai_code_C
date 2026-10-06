@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="Language C">
-  <img src="https://img.shields.io/badge/Progress-0%2F300-brightgreen.svg" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-1%2F300-brightgreen.svg" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange.svg" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
@@ -11,11 +11,11 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (0 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (1 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
-| **01** | Khái niệm cơ bản - Toán tử - Cấu trúc lựa chọn - Lặp | `0 bài` | 🔄 Đang học |
+| **01** | Khái niệm cơ bản - Toán tử - Cấu trúc lựa chọn - Lặp | `1 bài` | 🔄 Đang học |
 | **02** | Mảng | `0 bài` | ⏳ Chưa làm |
 | **03** | Mảng nhiều chiều | `0 bài` | ⏳ Chưa làm |
 | **04** | Chuỗi | `0 bài` | ⏳ Chưa làm |
@@ -33,7 +33,7 @@
 
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (C) | Trạng Thái |
 | :---: | :--- | :---: | :---: | :---: |
-| 001 | Tính tổng hai số nguyên | 🟢 Dễ | [Solution](./01-Co-Ban/001_tinh_tong.c) | `Done` |
+| 001 | Nhập vào diện tích S của một mặt cầu. Tính thể tích V của hình cầu này | 🟢 Dễ | [Solution](./chuong_01/bai001.c) | `Done` |
 | 002 | Kiểm tra số chính phương | 🟢 Dễ | [Solution](./01-Co-Ban/002_so_chinh_phuong.c) | `Done` |
 <!-- Thêm bài mới của Chương 1 bên dưới dòng này -->
 
