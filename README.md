@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="Language C">
   <img src="https://img.shields.io/badge/Progress-1%2F300-brightgreen.svg" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange.svg" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+ 
 </p>
 
 > Repository lưu trữ lời giải **300 Bài Code Thiếu Nhi** bằng ngôn ngữ **C**, được phân loại hệ thống theo 9 chương trong giáo trình của tác giả Dương Thiên Tứ.
