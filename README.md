@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" alt="Language C">
-  <img src="https://img.shields.io/badge/Progress-1%2F300-brightgreen.svg" alt="Progress">
+  <img src="https://img.shields.io/badge/Progress-3%2F300-brightgreen.svg" alt="Progress">
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange.svg" alt="Status">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
  
@@ -12,11 +12,11 @@
 
 ---
 
-## 📊 Tổng Quan Tiến Độ (1 / 300 Bài)
+## 📊 Tổng Quan Tiến Độ (3 / 300 Bài)
 
 | Chương | Tên Chương | Số Bài Hoàn Thành | Trạng Thái |
 | :---: | :--- | :---: | :---: |
-| **01** | Khái niệm cơ bản - Toán tử - Cấu trúc lựa chọn - Lặp | `1 bài` | 🔄 Đang học |
+| **01** | Khái niệm cơ bản - Toán tử - Cấu trúc lựa chọn - Lặp | `3 bài` | 🔄 Đang học |
 | **02** | Mảng | `0 bài` | ⏳ Chưa làm |
 | **03** | Mảng nhiều chiều | `0 bài` | ⏳ Chưa làm |
 | **04** | Chuỗi | `0 bài` | ⏳ Chưa làm |
@@ -34,8 +34,9 @@
 
 | STT | Tên Đề Bài | Độ Khó | Lời Giải (C) | Trạng Thái |
 | :---: | :--- | :---: | :---: | :---: |
-| 001 | Nhập vào diện tích S của một mặt cầu. Tính thể tích V của hình cầu này | 🟢 Dễ | [Solution](./chuong_01/bai001.c) | `Done` |
-| 002 | Kiểm tra số chính phương | 🟢 Dễ | [Solution](./01-Co-Ban/002_so_chinh_phuong.c) | `Done` |
+| 001 | Nhập vào diện tích S của một mặt cầu. Tính thể tích V của hình cầu này | 🟢 Dễ | [Solution](./01-Co-Ban/bai001.c) | `Done` |
+| 002 |Nhập vào tọa độ 2 điểm A(xA, yA) và B(xB, yB). Tính khoảng cách AB | 🟢 Dễ | [Solution](./01-Co-Ban/bai002.c) | `Done` |
+| 003 | Viết chương trình nhập vào tọa độ (xC, yC) là tâm của một đường tròn, và R là bán kính của đường tròn đó. Nhập vào tọa độ (xM, yM) của điểm M. Xác định điểm M nằm trong, nằm trên hay nằm ngoài đường tròn | 🟢 Dễ | [Solution](./01-Co-Ban/bai003.c) | `Done` |
 
 
 
@@ -121,5 +122,4 @@
 
 ---
 
-```markdown
-| <STT> | <Tên Bài Đề> | <Độ Khó> | [Solution](./<Tên_Thư_Mục>/<Tên_File>.c) | `Done` |
+
