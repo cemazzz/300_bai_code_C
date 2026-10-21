@@ -38,7 +38,7 @@
 | 002 |Nhập vào tọa độ 2 điểm A(xA, yA) và B(xB, yB). Tính khoảng cách AB | 🟢 Dễ | [Solution](./01-Co-Ban/bai002.c) | `Done` |
 | 003 | Viết chương trình nhập vào tọa độ (xC, yC) là tâm của một đường tròn, và R là bán kính của đường tròn đó. Nhập vào tọa độ (xM, yM) của điểm M. Xác định điểm M nằm trong, nằm trên hay nằm ngoài đường tròn | 🟢 Dễ | [Solution](./01-Co-Ban/bai003.c) | `Done` |
 | 004 | Viết chương trình nhập vào ba số thực là ba cạnh của một tam giác. Kiểm tra ba cạnh được nhập có hợp lệ hay không. Nếu hợp lệ, hãy cho biết loại tam giác và tính diện tích tam giác đó | 🟢 Dễ | [Solution](./01-Co-Ban/bai004.c) | `Done` |
-| 005 |  Viết chương trình nhập vào tọa độ các đỉnh của tam giác ABC và của điểm M. xác định điểm M nằm trong, nằm trên cạnh hay nằm ngoài tam giác ABC | 🔴 khó | [Solution](./01-Co-Ban/bai005.c) | 🔄 Đang làm` |
+| 005 |  Viết chương trình nhập vào tọa độ các đỉnh của tam giác ABC và của điểm M. xác định điểm M nằm trong, nằm trên cạnh hay nằm ngoài tam giác ABC | 🟠 vừa | [Solution](./01-Co-Ban/bai005.c) | `Done` |
 
 
 
